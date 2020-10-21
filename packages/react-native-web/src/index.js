@@ -4,6 +4,8 @@ export { default as processColor } from './exports/processColor';
 export { default as render } from './exports/render';
 export { default as unmountComponentAtNode } from './exports/unmountComponentAtNode';
 export { default as NativeModules } from './exports/NativeModules';
+export { default as ViewPropTypes } from './exports/ViewPropTypes';
+export { default as TextPropTypes } from './exports/TextPropTypes';
 
 // APIs
 export { default as AccessibilityInfo } from './exports/AccessibilityInfo';
@@ -59,6 +61,11 @@ export { default as TouchableWithoutFeedback } from './exports/TouchableWithoutF
 export { default as View } from './exports/View';
 export { default as VirtualizedList } from './exports/VirtualizedList';
 export { default as YellowBox } from './exports/YellowBox';
+
+// propTypes
+export { default as ColorPropType } from './exports/ColorPropType';
+export { default as EdgeInsetsPropType } from './exports/EdgeInsetsPropType';
+export { default as PointPropType } from './exports/PointPropType';
 
 // compat (components)
 export { default as DrawerLayoutAndroid } from './exports/DrawerLayoutAndroid';

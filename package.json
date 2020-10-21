@@ -79,5 +79,6 @@
     "singleQuote": true
   },
   "author": "Nicolas Gallagher",
-  "license": "MIT"
+  "license": "MIT",
+  "version": "0.0.2"
 }

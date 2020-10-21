@@ -2,7 +2,7 @@
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
-  "name": "Feng-Bu-Jue/babel-plugin-react-native-web",
+  "name": "feng-bu-jue-babel-plugin-react-native-web",
   "description": "Babel plugin for React Native for Web",
   "main": "index.js",
   "devDependencies": {
@@ -14,5 +14,6 @@
   "repository": {
     "type": "git",
     "url": "git://github.com/necolas/react-native-web.git"
-  }
+  },
+  "version": "0.0.2"
 }
