@@ -2,7 +2,7 @@
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
-  "name": "react-native-web",
+  "name": "Feng-Bu-Jue/react-native-web",
   "version": "0.0.1",
   "description": "React Native for Web",
   "module": "dist/index.js",
