@@ -3,7 +3,6 @@
     "registry": "https://registry.npmjs.org/"
   },
   "name": "Feng-Bu-Jue/babel-plugin-react-native-web",
-  "version": "0.0.1",
   "description": "Babel plugin for React Native for Web",
   "main": "index.js",
   "devDependencies": {

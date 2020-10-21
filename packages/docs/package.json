@@ -1,7 +1,6 @@
 {
   "private": true,
   "name": "docs",
-  "version": "0.0.1",
   "scripts": {
     "build": "build-storybook --docs -o ./dist -c ./.storybook",
     "start": "start-storybook --docs -p 9001 -c ./.storybook",
